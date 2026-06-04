@@ -1,0 +1,2 @@
+# ancient-painting-restoration-minutes
+古建彩画修复专家论证会色谱纪要全栈系统——前端展示显微取样与色度计数据，后端处理化学家与匠师对话，librosa轻量去噪，Whisper识别矿物颜料成分与传统技法名，pyannote区分分析检测方与修复方，OpenAI形成配色方案与保养建议，存入建筑遗产档案
